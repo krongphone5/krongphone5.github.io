@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #a1eebd;
+    background-color: #bdf3d1;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -28,8 +28,8 @@ p {
 }
 
 .btn {
-    background-color: #bdf3d1;
-    color: white;
+    background-color: #a1eebd;
+    color: #666666;
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
@@ -39,5 +39,5 @@ p {
 }
 
 .btn:hover {
-    background-color: #0056b3;
+    background-color: #71a784;
 }
