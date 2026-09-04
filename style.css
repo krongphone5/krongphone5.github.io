@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f2f5;
+    background-color: #a1eebd;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -28,7 +28,7 @@ p {
 }
 
 .btn {
-    background-color: #007bff;
+    background-color: #bdf3d1;
     color: white;
     border: none;
     padding: 10px 20px;
